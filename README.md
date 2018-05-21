@@ -12,7 +12,7 @@ Here is an overview of what you will be doing today:
 ## The Details:
 
 [github]: <https://github.com>
-[git]: <>
-[github-pages]: <>
-[hello-world]: <>
-[setup-gh-pages]: <>
+[git]: <https://git-scm.com>
+[github-pages]: <https://pages.github.com>
+[hello-world]: <https://guides.github.com/activities/hello-world/>
+[setup-gh-pages]: <https://guides.github.com/features/pages/>
