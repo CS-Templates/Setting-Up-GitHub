@@ -37,8 +37,32 @@ Congratulations, you're rolling! Next, we'll set up a website.
 
 ### Turn on GitHub Pages.
 
+If you haven't already done so, take a minute to verify your e-mail. You will need to have it verified before your website will go live. if  you can't access your e-mail right now, don't worry continue working through the assignment and remember to get your e-mail verified before the next class.
+
 1. Work through the [Getting Started with GitHub Pages][gh-pages] guide to enable the GitHub Pages website your account.
 1. Edit your profile to add a link your GitHub Pages site.
+1. Check that the link works. Remember that it can take a few minutes before your site is visible – till then you will get a 404 error.
+
+### Practice
+
+1. Review the GitHub [Mastering Markdown][gfm] guide, then
+1. Create a new branch called `practice` in the repository for your GitHub Pages site.
+1. Add a description of your game idea. If you're going to work on a team, add links to their GitHub profiles.
+1. Commit your changes to see what your page will look like.
+1. When your like the result, create a pull request and merge your branch back into the `master` branch. Delete the branch.
+1. Check out your site!
+
+## Submit The Assignment
+
+When you are done, submit the assignment:
+
+* Click on your GitHub bookmark to take you to your GitHub profile, then copy the URL.
+* On Canvas (you're here, right?) paste the URL into the submission box.
+* Finally in your notebook, reflect on how it went today:
+  - Select the next blank page and date it and title it "Starting GitHub" would not be a bad choice of title for today.
+  - What is something that "clicked" for your? Perhaps, how do you think we might use Git and GitHub on our final project?
+  - Did you get stuck or lost today? Where? Do you know why?
+  - What do you need to do next?  
 
 [github]: <https://github.com>
 [git]: <https://git-scm.com>
@@ -48,3 +72,4 @@ Congratulations, you're rolling! Next, we'll set up a website.
 [gh-flow]: <https://guides.github.com/introduction/flow/>
 [setup-gh-pages]: <https://guides.github.com/features/pages/>
 [gh-squares]: <https://help.github.com/articles/viewing-contributions-on-your-profile/>
+[gfm]: <https://guides.github.com/features/mastering-markdown/>
