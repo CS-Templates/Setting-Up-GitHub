@@ -62,7 +62,9 @@ When you are done, submit the assignment:
   - Select the next blank page and date it and title it "Starting GitHub" would not be a bad choice of title for today.
   - What is something that "clicked" for your? Perhaps, how do you think we might use Git and GitHub on our final project?
   - Did you get stuck or lost today? Where? Do you know why?
-  - What do you need to do next?  
+  - What do you need to do next?
+  
+<img src="https://imgs.xkcd.com/comics/git.png">
 
 [github]: <https://github.com>
 [git]: <https://git-scm.com>
