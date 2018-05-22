@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="https://imgs.xkcd.com/comics/git.png" style="float:left"> Today you are going to create an account on [GitHub][] (contol-click on this link to open it in another tab) one of the better known sites for hosting [Git][] repositories. Git is a _source code management_ system – a tool to help keep track of the change in software projects, like Unity games. When things go wrong, git can help you figure out what changed, and who change it. That's the first step towards fixing it.
+<img src="https://imgs.xkcd.com/comics/git.png" align="left"> Today you are going to create an account on [GitHub][] (contol-click on this link to open it in another tab) one of the better known sites for hosting [Git][] repositories. Git is a _source code management_ system – a tool to help keep track of the change in software projects, like Unity games. When things go wrong, git can help you figure out what changed, and who change it. That's the first step towards fixing it.
 
 Here is an overview of what you will be doing today:
 
