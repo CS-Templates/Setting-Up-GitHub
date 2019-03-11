@@ -9,7 +9,7 @@ Here is an overview of what you will be doing today:
 * Turn on the [GitHub Pages][gh-pages] web site – we'll use this later to host our games.
 * Practice by making a few changes to your website.
 
-To finish this assignment you will need a working e-mail account that you can access. If you alread have one, that's great, use it. Otherwise, you will need to set one up. Until you verify your e-mail address, your GitHub Pages site will not be active. You can do everything else without a working e-mail.
+To finish this assignment you will need a working e-mail account that you can access. If you alread have one, that's great, use it. Otherwise, you will need to set one up. Until you verify your e-mail address, your GitHub Pages site will **not** be active. You can do everything else without a working e-mail.
 
 ## The Details:
 
