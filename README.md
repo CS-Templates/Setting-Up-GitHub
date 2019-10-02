@@ -39,7 +39,7 @@ Congratulations, you're rolling! Next, we'll set up a website.
 
 ### Turn on GitHub Pages.
 
-If you haven't already done so, take a minute to verify your e-mail. You will need to have it verified before your website will go live. if  you can't access your e-mail right now, don't worry continue working through the assignment and remember to get your e-mail verified before the next class.
+If you haven't already done so, take a minute to verify your e-mail. You will need to have it verified before your website will go live. if  you can't access your e-mail right now, don't worry, continue working through the assignment and remember to get your e-mail verified before the next class.
 
 1. Work through the [Getting Started with GitHub Pages][gh-pages] guide to enable the GitHub Pages website your account.
 1. Edit your profile to add a link your GitHub Pages site.
